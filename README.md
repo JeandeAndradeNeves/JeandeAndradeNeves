@@ -1,6 +1,6 @@
 ###   Ola! Eu sou o Jean✋
 
-- 🌱 Eu atualmente estudo: Javascript,Reactjs and Nodejs
+- 🌱 Eu atualmente estudo: Javascript,Reactjs,Nodejs and mySQL
 - 📫 Como me encontrar: jeandeneves@outlook.com
 
 <div align="center">
